@@ -10,6 +10,8 @@ someone sued valve because of this bot
 # Setup Video Tutorial:
 https://www.youtube.com/watch?v=FuJ86rf4pkw
 
+![image](https://github.com/user-attachments/assets/eb7a2566-e4b0-455d-a7ea-0bba861e2742)
+
 ![image](https://github.com/user-attachments/assets/8ddaf98a-0876-42b6-a053-73434c8c4690)
 
 
