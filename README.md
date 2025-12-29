@@ -4,6 +4,9 @@ This bot talks with other players, saying "There are no cheaters at CS2", "VAC i
 
 To use this bot, you simply need to put the username and password at a file called config.steam , if its a email from https://www.emailnator.com/ the code can detect the email verification code by itself but you will need to do a little change at the code so the GmailNator class will be in use (the code already exist but not enabled by default), if you will not use emailnator (for example your real gmail account) you will need to validate the email code by yourself.
 
+# Fun fact
+someone sued valve because of this bot
+
 # Setup Video Tutorial:
 https://www.youtube.com/watch?v=FuJ86rf4pkw
 
