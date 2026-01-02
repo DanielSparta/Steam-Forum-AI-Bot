@@ -1,5 +1,5 @@
 # Steam-Forum-AI-Bot
-This is a steam api AI bot that login into accounts, detecting the email code that was sent, and getting the steamLoginSecure cookie.
+I researched steam protocols to create a api for AI bot that login into accounts, detecting the email code that was sent, and then talks with other players.
 This bot talks with other players, saying "There are no cheaters at CS2", "VAC is a built in feature that is well embedded within the game code", etc.
 
 To use this bot, you simply need to put the username and password at a file called config.steam , if its a email from https://www.emailnator.com/ the code can detect the email verification code by itself but you will need to do a little change at the code so the GmailNator class will be in use (the code already exist but not enabled by default), if you will not use emailnator (for example your real gmail account) you will need to validate the email code by yourself.
