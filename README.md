@@ -6,7 +6,7 @@ To use this bot, you simply need to put the username and password in a file call
 
 # Fun facts
 1. Someone sued Valve because of this bot.
-2. As part of the research I did for this project, I discovered some security vulnerabilities. I chained them and developed a vulnerability chain for Steam Client 1-Click RCE. I reported it (along with additional vulnerabilities) to Valve's bug bounty program on HackerOne, and they fixed these vulnerabilities.
+2. As part of the research I did for this project, I discovered some security vulnerabilities. I chained them and developed a vulnerability chain for Steam Client 1-Click RCE. I reported it (along with additional vulnerabilities) to Valve's bug bounty program on HackerOne, and they fixed most of these vulnerabilities.
 
 # Setup Video Tutorial:
 https://www.youtube.com/watch?v=FuJ86rf4pkw
