@@ -1,12 +1,12 @@
 # Steam-Forum-AI-Bot
-I researched steam protocols to create a api for AI bot that login into accounts, detecting the email code that was sent, and then talks with other players.
-This bot talks with other players, saying "There are no cheaters at CS2", "VAC is a built in feature that is well embedded within the game code", etc.
+I researched Steam's protocols to create an API for an AI bot that logs into accounts, detects the email code that was sent, and then talks with other players.
+This bot talks with other players, saying things like "There are no cheaters in CS2", "VAC is a built-in feature that is well embedded within the game's code", etc.
 
-To use this bot, you simply need to put the username and password at a file called config.steam , if its a email from https://www.emailnator.com/ the code can detect the email verification code by itself but you will need to do a little change at the code so the GmailNator class will be in use (the code already exist but not enabled by default), if you will not use emailnator (for example your real gmail account) you will need to validate the email code by yourself.
+To use this bot, you simply need to put the username and password in a file called config.steam. If it's an email from https://www.emailnator.com/, the code can detect the email verification code by itself, but you'll need to make a small change in the code so that the GmailNator class is used (the code already exists but isn't enabled by default). If you don't use Emailnator (for example, your real Gmail account), you'll need to validate the email code yourself.
 
 # Fun facts
-1. Someone sued valve because of this bot
-2. As part of the research I did for this project I discovered some security vulnerabilities, I chained them and developed 2 different vulnerability chains for steam user takeover - I reported them to VALVE bug bounty program at hackerone and then they fixed these vulnerabilities.
+1. Someone sued Valve because of this bot.
+2. As part of the research I did for this project, I discovered some security vulnerabilities. I chained them and developed 2 different vulnerability chains for Steam account takeover. I reported them to Valve's bug bounty program on HackerOne, and they fixed these vulnerabilities.
 
 # Setup Video Tutorial:
 https://www.youtube.com/watch?v=FuJ86rf4pkw
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=FuJ86rf4pkw
 ![image](https://github.com/user-attachments/assets/60eaa69b-b62a-4014-9fe4-25cb63ebc5ac)
 
 
-# Alot steam points
-Those players dont know that they are arguing with a ai bot
+# A lot of Steam points
+Those players don't know they're arguing with an AI bot.
 
 ![image](https://github.com/user-attachments/assets/0923ab55-0187-4376-b676-b79b7825f296)
