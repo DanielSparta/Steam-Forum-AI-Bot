@@ -10,6 +10,8 @@ To use this bot, you simply need to put the username and password in a file call
 
 The vulnerabilities they didn't fix, on the other hand, are currently of informative severity, but they still allow things like performing remote payment-related actions on other players' accounts, XSS-to-RCE chains caused by incomplete fixes to my earlier vulnerabilities, performing actions on partner organizations after you've been removed from them, and more. There are many of these, but Valve refuses to even listen or fix them. I find it concerning that Valve doesn't care much about user security, or about any vulnerability that doesn't have a direct impact on the business itself. I don't currently want to disclose these vulnerabilities, because they would be exploited by attackers. **While I love Valve for its history, I can't not hate them, knowing which vulnerabilities they're ignoring.**
 
+https://hackerone.com/danielsparta
+
 # Setup Video Tutorial:
 https://www.youtube.com/watch?v=FuJ86rf4pkw
 
