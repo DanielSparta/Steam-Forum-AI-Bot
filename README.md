@@ -5,10 +5,10 @@ This bot talks with other players, saying things like "There are no cheaters in 
 To use this bot, you simply need to put the username and password in a file called config.steam. If it's an email from https://www.emailnator.com/, the code can detect the email verification code by itself, but you'll need to make a small change in the code so that the GmailNator class is used (the code already exists but isn't enabled by default). If you don't use Emailnator (for example, your real Gmail account), you'll need to validate the email code yourself.
 
 # Fun facts
-1. Someone sued Valve because of this bot.
+1. Some angry person tried to sue Valve because of this bot.
 2. As part of the research I did for this project, I discovered some security vulnerabilities. I chained them and developed a vulnerability chain for Steam Client 1-Click RCE. I reported it (along with additional vulnerabilities) to Valve's bug bounty program on HackerOne, and they fixed most of these vulnerabilities.
 
-The vulnerabilities they didn't fix, on the other hand, are currently of informative severity, but they still allow accessing other players' accounts.
+The vulnerabilities they didn't fix, on the other hand, are currently of informative severity, but they still allow things like performing remote payment-related actions on other players' accounts, XSS-to-RCE chains caused by incomplete fixes to my earlier vulnerabilities, performing actions on partner organizations after you've been removed from them, and more. There are many of these, but Valve refuses to even listen or fix them. I find it concerning that Valve doesn't care much about user security, or about any vulnerability that doesn't have a direct impact on the business itself. I don't currently want to disclose these vulnerabilities, because they would be exploited by attackers. **While I love Valve for its history, I can't not hate them, knowing which vulnerabilities they're ignoring.**
 
 # Setup Video Tutorial:
 https://www.youtube.com/watch?v=FuJ86rf4pkw
